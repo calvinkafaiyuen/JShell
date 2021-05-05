@@ -1,7 +1,7 @@
 # JShell
 A mock Bash shell written in Java
 
-The project was developed within a team of 4 using the agile software development methodology. Object-oriented principles were followed during the devlopment process.
+The project was developed within a team of four using the agile software development methodology. Object-oriented principles were followed during the devlopment process.
 
 Testing was done with JUnit and version control was done with SVN.
 
