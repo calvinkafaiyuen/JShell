@@ -11,10 +11,14 @@ Testing was done with JUnit and version control was done with SVN.
 - JDK 11.0.8
 
 Compile the program by running the following command inside the `src` directory:
-```$ javac driver/JShell.java```
+```
+$ javac driver/JShell.java
+```
 
 Execute the program by running the following command inside the same `src` directory:
-```$ java driver/JShell```
+```
+$ java driver/JShell
+```
 
 ## Supported Commands
 - exit
