@@ -6,7 +6,7 @@ The project was developed within a team of four using the agile software develop
 Testing was done with JUnit and version control was done with SVN.
 
 
-## Running the Program 
+## How to run the program
 ### Prerequisites 
 - JDK 11.0.8
 
